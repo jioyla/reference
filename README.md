@@ -277,14 +277,17 @@ Quick Reference
 <a href="https://github.com/LiuYuan-SHU" title="Yuan Liu">
   <img src="https://avatars.githubusercontent.com/u/96400967?v=4" width="42;" alt="Yuan Liu"/>
 </a>
+<a href="https://github.com/mailbaoer" title="baoer">
+  <img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/>
+</a>
 <a href="https://github.com/chaos-cn" title="chaos">
   <img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/>
 </a>
 <a href="https://github.com/MackDing" title="Blossom">
   <img src="https://avatars.githubusercontent.com/u/19878893?v=4" width="42;" alt="Blossom"/>
 </a>
-<a href="https://github.com/MarioMang" title="MarioMang">
-  <img src="https://avatars.githubusercontent.com/u/3959555?v=4" width="42;" alt="MarioMang"/>
+<a href="https://github.com/Darkiiiiiice" title="Darkiiiiiice">
+  <img src="https://avatars.githubusercontent.com/u/3959555?v=4" width="42;" alt="Darkiiiiiice"/>
 </a>
 <a href="https://github.com/qyl27" title="秋 雨落">
   <img src="https://avatars.githubusercontent.com/u/53731501?v=4" width="42;" alt="秋 雨落"/>
@@ -300,9 +303,6 @@ Quick Reference
 </a>
 <a href="https://github.com/XYZscratcher" title="XYZ">
   <img src="https://avatars.githubusercontent.com/u/108533817?v=4" width="42;" alt="XYZ"/>
-</a>
-<a href="https://github.com/mailbaoer" title="baoer">
-  <img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/>
 </a>
 <a href="https://github.com/1834423612" title="kjch">
   <img src="https://avatars.githubusercontent.com/u/49981661?v=4" width="42;" alt="kjch"/>
@@ -399,6 +399,9 @@ Quick Reference
 </a>
 <a href="https://github.com/mo3et" title="Monet Lee">
   <img src="https://avatars.githubusercontent.com/u/34803812?v=4" width="42;" alt="Monet Lee"/>
+</a>
+<a href="https://github.com/HanaNoryu" title="Noryu">
+  <img src="https://avatars.githubusercontent.com/u/109856546?v=4" width="42;" alt="Noryu"/>
 </a>
 <a href="https://github.com/Perzch" title="Perzch">
   <img src="https://avatars.githubusercontent.com/u/67987641?v=4" width="42;" alt="Perzch"/>
@@ -604,7 +607,7 @@ Quick Reference
 [defense.ink](https://ref.defense.ink)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 [terryyoung.cn](http://ref.terryyoung.cn/)<!--rehype:target=_blank&class=contributing&data-info=👆每周一三五自动同步-->
 [quickref.binscor.top](https://quickref.binscor.top)<!--rehype:target=_blank&data-info=👆每天自动同步-->
-[fxkjnj.com](https://ref.fxkjnj.com/)<!--rehype:target=_blank&data-info=👆每天自动同步-->
+[srebro.cn](https://ref.srebro.cn)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [haah.net](https://ref.haah.net)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [laoleng.vip](http://bbs.laoleng.vip/reference/)<!--rehype:target=_blank-->
 [dbyun.net](https://www.dbyun.net/reference/index.html)<!--rehype:target=_blank-->
